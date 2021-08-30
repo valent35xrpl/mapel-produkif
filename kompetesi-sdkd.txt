@@ -1,0 +1,6 @@
+A. komunikasi daring sinkron 
+-line
+b. komunikasi daring asingkron 
+-email
+github
+git
