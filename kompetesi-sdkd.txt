@@ -3,4 +3,6 @@ A. komunikasi daring sinkron
 b. komunikasi daring asingkron 
 -email
 github
+-membuat akun
+-membuat repository
 git
