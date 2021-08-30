@@ -1,3 +1,4 @@
+kompetensi sdkd
 A. komunikasi daring sinkron 
 -line
 b. komunikasi daring asingkron 
@@ -5,4 +6,6 @@ b. komunikasi daring asingkron
 github
 -membuat akun
 -membuat repository
+-membuat file baru
+-membuat commit
 git
