@@ -4,5 +4,5 @@ b. komunikasi daring asingkron
 -email
 github
 -membuat akun
--membuat repository
+-membuat repository (file baru dan commit)
 git
